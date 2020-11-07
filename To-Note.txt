@@ -1,0 +1,6 @@
+	The userinfo.txt file contains the list of user ID which can be used by the individual user to cast their vote as this record will be used to check the authenticity of the individual user id. Further another file with a different set of user ID can be used, provided the file name is updated in the code.
+
+Limitations
+	Code is limited to 5 candidates, it can modified as needed.
+The size of user ID string is fixed to 6 characters.
+A file which will contain the number of votes is created for each candidate and updated throughout the voting process.
